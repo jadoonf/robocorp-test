@@ -20,7 +20,7 @@ Robocorp Action Server makes your Python scripts compatible with ChatGPT and Lan
 </picture>
 
 Looking for a replacement to RPA? Head over to our [Enterprise Python Automation site](https://robocorp.com/docs/quickstart-guide) for more.
-
+ 
 ---
 
 <div id="quickstart"></div>
